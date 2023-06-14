@@ -90,5 +90,5 @@ During the comparison of the insertion operation for the trees, it was observed 
 In conclusion, the comparisons indicate that for prioritizing insertion and deletion, the RBT is preferable due to its similar height to the AVL tree and fewer rotations. On the other hand, if efficient searching is the priority, the AVL tree is recommended due to its superior balance compared to the RBT, resulting in faster tree traversal. The unbalanced BST demonstrated inefficiency and is primarily useful for educational purposes rather than practical applications. Real-world applications for each tree structure can be summarized as follows: the unbalanced BST can be used in educational settings to teach basic tree concepts, the AVL tree is well-suited for databases due to its optimal search efficiency, and the RBT is beneficial for sets or hash maps, especially when frequent additions or removals are expected.
 
 ## Deliverables:  
-1. Code/ - subdirectory which holds all Source Code for the Assignment
-2. report.pdf - documentation of the Assignment
+1. [Code/](https://github.com/mbar0075/Data-Structures-and-Algorithms2/tree/main/Code) - subdirectory which holds all Source Code for the Assignment
+2. [report.pdf](https://github.com/mbar0075/Data-Structures-and-Algorithms2/blob/main/report.pdf) - documentation of the Assignment
